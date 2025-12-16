@@ -2,7 +2,7 @@
 
 Materiais desenvolvidos para a atividade.
 
-* Apostilas: contém documentação completa sobre a eletrônica (hardware) e a programação (firmware) do robô
+* Apostilas: contém documentação completa sobre a eletrônica (hardware) e a programação (firmware) do robô, além de tutorias de instalação das ferramentas necessárias (drivers, softwares, bibliotecas, etc)
   
 * Códigos: contém o código principal do robô, código para aplicar o filtro MAC do controle e código para descobrir os parâmetros de um controle
   
