@@ -3,8 +3,11 @@
 Materiais desenvolvidos para a atividade.
 
 * Apostilas: contém documentação completa sobre a eletrônica (hardware) e a programação (firmware) do robô
+  
 * Códigos: contém o código principal do robô, código para aplicar o filtro MAC do controle e código para descobrir os parâmetros de um controle
+  
 * Hardware: contém fotos da placa, arquivo para produção/prototipagem (GERBER) e os arquivos de projeto (abrir no software EasyEDA)
+  
 * Mecânica: contém arquivos dxf (para corte a laser) das peças da estrutura mecânica dos robôs desse ano e dos anos anteriores e modelos de rodas alternativas
 
 ----
