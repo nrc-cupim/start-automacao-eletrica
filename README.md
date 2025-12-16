@@ -7,9 +7,13 @@ Materiais desenvolvidos para a atividade.
 * Hardware: contém fotos da placa, arquivo para produção/prototipagem (GERBER) e os arquivos de projeto (abrir no software EasyEDA)
 * Mecânica: contém arquivos dxf (para corte a laser) das peças da estrutura mecânica dos robôs desse ano e dos anos anteriores e modelos de rodas alternativas
 
-Para acessar as regras da categoria de cupim e os critérios de julgamento das lutas, clique [aqui](https://events.robocore.net/rcx-cpbsb7/rules)
+----
 
----
+## Regras
+
+Para acessar as regras da categoria de cupim e os critérios de julgamento das lutas, clique [aqui](https://events.robocore.net/ironcup-2025/entries)
+
+----
 
 ## Links uteis
   * [Biblioteca Bluepad32](https://bluepad32.readthedocs.io/en/latest/)
